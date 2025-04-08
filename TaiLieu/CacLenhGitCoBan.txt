@@ -1,0 +1,9 @@
+//CacLenhGitCoBan.txt
+1.Lệnh kiểm tra github trước khi bắt đầu code, trước khi chốt code, tải code về
+"git status"
+2.Lệnh thêm tệp trước khi commit
+"git add ." (. là chọn tất cả các file trước tải lên)
+3.Lệnh tạo commit
+"git commit -m ghi chú vào đây"
+4.Lệnh đẩy lên github (quan trọng)
+"git push origin main"
